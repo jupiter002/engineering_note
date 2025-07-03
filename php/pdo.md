@@ -1,0 +1,1 @@
+PDOStatement::closeCursor() : PDOStatement가 여러 행을 반환하지만 하나의 행만 가져오고 다른 행을 개별적으로 파싱할 때 사용. 서버와의 연결을 끊고 명령문을 다시 실행할 수 있게 만듬
