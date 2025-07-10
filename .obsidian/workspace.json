@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laravel/설치 및 환경설정.md",
+                "file": "laravel/문법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "설치 및 환경설정"
+              "title": "문법"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,32 +181,32 @@
   },
   "active": "874985e778077c54",
   "lastOpenFiles": [
+    "자바스크립트/DOM 객체.md",
+    "자바스크립트/BOM 객체.md",
+    "자바스크립트/Promise 객체.md",
+    "자바스크립트/Ajax.md",
     "laravel/문법.md",
-    "laravel/폴더 구조.md",
     "laravel/설치 및 환경설정.md",
+    "laravel/폴더 구조.md",
+    "자바스크립트/async & await.md",
+    "자바스크립트/타이머.md",
+    "자바스크립트/예외처리.md",
+    "php/pdo.md",
+    "php/함수.md",
+    "linux/vhost설정.md",
     "laravel",
     "laravel/배포.md",
-    "php/함수.md",
     "laravel",
-    "linux/vhost설정.md",
-    "자바스크립트/Promise 객체.md",
-    "php/pdo.md",
-    "자바스크립트/Ajax.md",
     "자바스크립트/이미지",
-    "자바스크립트/async & await.md",
-    "자바스크립트/BOM 객체.md",
     "무제.canvas",
     "2025-07-04.md",
-    "자바스크립트/DOM 객체.md",
     "자바스크립트/이벤트.md",
-    "자바스크립트/타이머.md",
     "자바스크립트/프로토타입 기반 객체 지향.md",
     "자바스크립트/이미지/Pasted image 20250703083132.png",
     "자바스크립트/이미지/Pasted image 20250703152045.png",
     "Pasted image 20250703151907.png",
     "Pasted image 20250703151830.png",
     "자바스크립트/이미지/Pasted image 20250703151936.png",
-    "자바스크립트/예외처리.md",
     "자바스크립트/무제.canvas",
     "Pasted image 20250703083129.png",
     "java.md",
