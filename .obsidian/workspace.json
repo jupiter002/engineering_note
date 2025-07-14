@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laravel/문법.md",
+                "file": "docker/오류.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "문법"
+              "title": "오류"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 200
   },
   "right": {
     "id": "0040c3ebfaffb904",
@@ -181,12 +181,14 @@
   },
   "active": "874985e778077c54",
   "lastOpenFiles": [
+    "laravel/설치 및 환경설정.md",
+    "docker/오류.md",
+    "docker",
+    "laravel/문법.md",
     "자바스크립트/DOM 객체.md",
     "자바스크립트/BOM 객체.md",
     "자바스크립트/Promise 객체.md",
     "자바스크립트/Ajax.md",
-    "laravel/문법.md",
-    "laravel/설치 및 환경설정.md",
     "laravel/폴더 구조.md",
     "자바스크립트/async & await.md",
     "자바스크립트/타이머.md",
