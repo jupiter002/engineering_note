@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "974466681a3432d7",
+        "id": "883004f9d6d0d829",
         "type": "tabs",
         "children": [
           {
-            "id": "855dcafbde6d288f",
+            "id": "dd00783491d1cf91",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "laravel/Auth.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Auth"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77ef7d6053424b4a",
+  "active": "dd00783491d1cf91",
   "lastOpenFiles": [
+    "laravel/Auth.md",
     "linux/외부접속 설정.md",
     "laravel/middleware설정.md",
     "laravel/설치 및 환경설정.md",
@@ -213,7 +214,6 @@
     "자바스크립트/이미지",
     "무제.canvas",
     "2025-07-04.md",
-    "자바스크립트/프로토타입 기반 객체 지향.md",
     "자바스크립트/이미지/Pasted image 20250703083132.png",
     "자바스크립트/이미지/Pasted image 20250703152045.png",
     "Pasted image 20250703151907.png",

@@ -1,0 +1,1 @@
+Auth::attempt -> SessionGuard, TokenGaurd같은 세션, 토큰 기반인증 가드에서 지원. RequestGaurd사용시 does not exsist발생.
