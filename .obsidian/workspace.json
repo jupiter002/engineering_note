@@ -11,14 +11,15 @@
             "id": "076b3fa0112e6d41",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "docker/crontab.md",
-                "mode": "source",
-                "source": false
+                "aFile": "laravel/DB/Eloquent관계정의.md",
+                "bFile": "laravel/DB/Eloquent관계정의.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "crontab"
+              "icon": "diff",
+              "title": "Diff: Eloquent관계정의"
             }
           }
         ]
@@ -182,6 +183,7 @@
   },
   "active": "076b3fa0112e6d41",
   "lastOpenFiles": [
+    "docker/crontab.md",
     "docker/오류.md",
     "2025-10-21.md",
     "무제 2.base",
@@ -191,7 +193,6 @@
     "무제.canvas",
     "무제 1.base",
     "무제 2.canvas",
-    "docker/crontab.md",
     "laravel/컴포넌트.md",
     "laravel/폴더 구조.md",
     "laravel/Auth.md",
