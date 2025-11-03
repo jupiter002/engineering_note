@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ead07a95a8ca31a0",
+        "id": "deda27f13c9c33cb",
         "type": "tabs",
         "children": [
           {
-            "id": "7d38c1fbe9a5abc1",
+            "id": "e25b25cc09aa4610",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "docker/컨테이너.md",
-                "mode": "source",
-                "source": false
+                "aFile": "docker/볼륨.md",
+                "bFile": "docker/볼륨.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "컨테이너"
+              "icon": "diff",
+              "title": "Diff: 볼륨"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "right": {
     "id": "0040c3ebfaffb904",
@@ -180,54 +180,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d38c1fbe9a5abc1",
+  "active": "e25b25cc09aa4610",
   "lastOpenFiles": [
-    "docker/오류.md",
+    "docker/배포.md",
     "docker/볼륨.md",
-    "docker/컨테이너.md",
-    "docker/Dockerfile.md",
-    "docker/crontab.md",
     "docker/명령어.md",
+    "docker/네트워크.md",
+    "docker/Dockerfile.md",
+    "docker/컨테이너.md",
     "docker/개념.md",
-    "laravel/DB/테이블 생성.md",
-    "laravel/Livewire.md",
-    "영카트/이미지/Pasted image 20251027154023.png",
-    "영카트/이미지",
-    "영카트/영카트 기본구조.md",
-    "영카트/영카트 함수.md",
-    "영카트",
-    "laravel/DB/Eloquent관계정의.md",
+    "docker/오류.md",
+    "docker/crontab.md",
+    "무제.base",
     "docker/이미지/Pasted image 20251031124336.png",
+    "영카트/영카트 기본구조.md",
+    "영카트/이미지",
+    "영카트/이미지/Pasted image 20251027154023.png",
+    "자바스크립트/Ajax.md",
     "docker/이미지",
-    "laravel/컴포넌트.md",
+    "자바스크립트/타이머.md",
+    "자바스크립트/이벤트.md",
+    "자바스크립트/예외처리.md",
+    "자바스크립트/이미지/Pasted image 20250703083132.png",
+    "영카트/영카트 함수.md",
     "laravel/DB/Eloquent메소드.md",
-    "laravel/Broadcasting.md",
-    "laravel/HTMLPurify.md",
-    "laravel/캐싱.md",
-    "laravel/Blade.md",
-    "laravel/middleware설정.md",
-    "laravel/폴더 구조.md",
-    "laravel/Auth.md",
-    "linux/보안설정.md",
-    "laravel/설치 및 환경설정.md",
+    "laravel/DB/테이블 생성.md",
+    "laravel/DB/모델.md",
     "laravel/레이아웃.md",
-    "linux/외부접속 설정.md",
     "laravel/문법.md",
+    "laravel/설치 및 환경설정.md",
+    "php/pdo.md",
+    "php/함수.md",
+    "linux/외부접속 설정.md",
+    "영카트",
+    "2025-10-21.md",
+    "무제 2.base",
+    "무제 3.base",
+    "무제 1.canvas",
+    "무제.canvas",
+    "무제 1.base",
+    "무제 2.canvas",
+    "laravel/컴포넌트.md",
     "laravel/DB",
     "docker",
     "laravel",
-    "laravel",
-    "자바스크립트/이미지",
-    "무제.canvas",
-    "자바스크립트/이미지/Pasted image 20250703083132.png",
     "자바스크립트/이미지/Pasted image 20250703152045.png",
     "Pasted image 20250703151907.png",
     "Pasted image 20250703151830.png",
     "자바스크립트/이미지/Pasted image 20250703151936.png",
     "자바스크립트/무제.canvas",
     "Pasted image 20250703083129.png",
-    "python",
-    "linux",
     "Untitled.canvas"
   ]
 }
