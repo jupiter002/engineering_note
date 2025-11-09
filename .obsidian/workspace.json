@@ -180,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d38c1fbe9a5abc1",
+  "active": "a23f4ef126a9facd",
   "lastOpenFiles": [
+    "spring/springboot",
+    "무제",
     "spring/Layered Architecture.md",
     "spring/HTTP 응답.md",
     "spring/어노테이션.md",
@@ -215,12 +217,10 @@
     "laravel/캐싱.md",
     "laravel/Blade.md",
     "laravel/middleware설정.md",
-    "laravel/폴더 구조.md",
     "laravel/DB",
     "docker",
     "laravel",
     "laravel",
-    "자바스크립트/이미지",
     "무제.canvas",
     "자바스크립트/이미지/Pasted image 20250703083132.png",
     "자바스크립트/이미지/Pasted image 20250703152045.png",
