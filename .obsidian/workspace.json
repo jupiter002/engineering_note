@@ -60,19 +60,21 @@
             }
           },
           {
-            "id": "2f3f777938220e89",
+            "id": "c8d2f29271c2ac32",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "phpmyadmin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "icon": "lucide-file",
+              "title": "phpmyadmin"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -231,12 +233,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a23f4ef126a9facd",
+  "active": "c8d2f29271c2ac32",
   "lastOpenFiles": [
+    "react/서버배포.md",
+    "phpmyadmin.md",
+    "네트워크 드라이브/네트워크 드라이브.md",
+    "react",
     "네트워크 드라이브/이미지/Pasted image 20260408135215.png",
     "네트워크 드라이브/이미지/Pasted image 20260408135336.png",
     "네트워크 드라이브/이미지/Pasted image 20260408135344.png",
-    "네트워크 드라이브/네트워크 드라이브.md",
     "네트워크 드라이브/이미지",
     "네트워크 드라이브/이미지/Pasted image 20260408135508.png",
     "Pasted image 20260408135146.png",
@@ -270,12 +275,10 @@
     "php/함수.md",
     "php/pdo.md",
     "자바스크립트/Ajax.md",
-    "자바스크립트/타이머.md",
     "spring/이미지",
     "디자인패턴",
     "spring",
     "docker/이미지/Pasted image 20251031124336.png",
-    "영카트/이미지",
     "영카트/이미지/Pasted image 20251027154023.png",
     "자바스크립트/이미지/Pasted image 20250703083132.png",
     "무제 1.canvas",
