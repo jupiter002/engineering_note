@@ -1,4 +1,3 @@
-# Claude Code 네트워크 드라이브 접근 문제 해결
 
 rmfjaNov 11, 2026 · @sonet
 

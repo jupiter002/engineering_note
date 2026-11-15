@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "851dfc384e0cc27c",
+        "id": "8d38635ff0404ca6",
         "type": "tabs",
         "children": [
           {
-            "id": "47c1096a1813f91a",
+            "id": "966d8cc9cf4f0df7",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "서울의료원.md",
-                "bFile": "서울의료원.md",
-                "aRef": ""
+                "file": "git/잘못 커밋된 파일 제거.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 서울의료원  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "잘못 커밋된 파일 제거"
             }
           }
         ]
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -168,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 595.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,56 +182,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47c1096a1813f91a",
+  "active": "966d8cc9cf4f0df7",
   "lastOpenFiles": [
-    "무제 1.canvas",
-    "2026-11-15.md",
-    "linux/okta서버 장애 대응 및 SSH키 로그인 설정.md",
+    "네트워크 드라이브/네트워크 드라이브.md",
+    "git/잘못 커밋된 파일 제거.md",
+    "git",
+    "노션/데이터베이스.md",
+    "서울의료원.md",
+    "네트워크 드라이브/Claude Code 네트워크 드라이브 접근 문제 해결.md",
     "phpmyadmin.md",
-    "Tomcat 운영.md",
-    "SSH 키 관리.md",
-    "linux/PHP버전 업그레이드.md",
-    "linux/방화벽.md",
+    "2026-11-15.md",
     "2026-10-22.md",
+    "무제 1.canvas",
     "무제.canvas",
     "무제.base",
-    "서울의료원.md",
-    "무제",
-    "네트워크 드라이브/이미지/Pasted image 20260408135215.png",
-    "자바스크립트/이벤트.md",
-    "네트워크 드라이브/네트워크 드라이브.md",
-    "react/서버배포.md",
-    "react",
-    "네트워크 드라이브/이미지/Pasted image 20260408135336.png",
-    "네트워크 드라이브/이미지/Pasted image 20260408135344.png",
-    "네트워크 드라이브/이미지",
-    "네트워크 드라이브/이미지/Pasted image 20260408135508.png",
-    "Pasted image 20260408135146.png",
-    "네트워크 드라이브",
     "영카트/마이그레이션시 데이터 백업.md",
     "디버깅/브라우저/요소 이벤트 찾기.md",
-    "linux/보안 프로그램.md",
-    "linux/외부접속 설정.md",
-    "linux/허니팟.md",
-    "spring/Layered Architecture.md",
     "디버깅/브라우저",
     "디버깅",
-    "linux/vhost설정.md",
+    "네트워크 드라이브/이미지/Pasted image 20260408135508.png",
+    "네트워크 드라이브/이미지/Pasted image 20260408135344.png",
+    "네트워크 드라이브/이미지/Pasted image 20260408135336.png",
+    "네트워크 드라이브/이미지/Pasted image 20260408135215.png",
+    "네트워크 드라이브/이미지",
+    "네트워크 드라이브",
+    "react/서버배포.md",
+    "react",
+    "linux/허니팟.md",
+    "linux/보안 프로그램.md",
+    "linux/방화벽.md",
+    "linux/okta서버 장애 대응 및 SSH키 로그인 설정.md",
+    "linux/PHP버전 업그레이드.md",
+    "laravel/문법.md",
+    "노션",
     "laravel/설치 및 환경설정.md",
-    "spring/HTTP 응답.md",
-    "spring/어노테이션.md",
-    "spring/개념.md",
-    "spring/Ser.md",
-    "spring/DAO.md",
-    "무제 1.base",
+    "laravel/레이아웃.md",
+    "docker/명령어.md",
+    "docker/네트워크.md",
+    "docker/개념.md",
+    "laravel/DB/Eloquent메소드.md",
+    "laravel/DB/Eloquent관계정의.md",
+    "laravel/DB/테이블 생성.md",
+    "laravel/DB/모델.md",
+    "spring/springboot",
     "spring/이미지/Pasted image 20251104170251.png",
     "spring/이미지",
-    "디자인패턴",
-    "docker/이미지/Pasted image 20251031124336.png",
     "영카트/이미지/Pasted image 20251027154023.png",
+    "docker/이미지/Pasted image 20251031124336.png",
     "자바스크립트/이미지/Pasted image 20250703083132.png",
-    "무제 2.canvas",
     "자바스크립트/이미지/Pasted image 20250703152045.png",
+    "Pasted image 20250703151907.png",
     "자바스크립트/무제.canvas",
     "Untitled.canvas"
   ]
